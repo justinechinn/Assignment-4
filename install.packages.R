@@ -1,0 +1,8 @@
+install.packages("tinytex")
+install.packages("gtsummary")
+install.packages("tidyverse")
+install.packages("readr")
+install.packages("ggplot2")
+install.packages("cardx")
+install.packages("knitr")
+install.packages("modelsummary")
