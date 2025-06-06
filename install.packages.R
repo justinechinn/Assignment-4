@@ -1,4 +1,5 @@
 install.packages("tinytex")
+tinytex::install_tinytex()
 install.packages("gtsummary")
 install.packages("tidyverse")
 install.packages("readr")
